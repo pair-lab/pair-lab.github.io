@@ -12,21 +12,21 @@ sections:
       interval: 10
     content:
       slides:
-      - title: PAIR Lab
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Recent News
-          url: ../talks/
+      # - title: PAIR Lab
+      #   content: Take a look at what we're working on...
+      #   align: center
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: right
+      #     color: '#666'
+      #   link:
+      #     icon: graduation-cap
+      #     icon_pack: fas
+      #     text: Recent News
+      #     url: ../talks/
       - title: "BAAI2023: Safe Value Alignment for LLM"
         content: 'AI安全与对齐论坛'
         align: center
