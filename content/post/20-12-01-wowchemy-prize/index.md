@@ -1,14 +1,14 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: '国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver'
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+'北京大学团队开源了名为 PKU-Beaver（河狸）项目，其开源地址为：https://github.com/PKU-Alignment/safe-rlhf。'
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+'如今，大语言模型如 ChatGPT 已在人们的生产生活中产生广泛影响。作为训练大语言模型的关键步骤，RLHF（Reinforcement Learning from Human Feedback）是一种利用强化学习方法从人类反馈中学习的技术。借助 RLHF 技术，大语言模型可与人类偏好保持对齐并遵循人类意图，满足 “有帮助的”、“诚实的” 和 “无害的” 的 3H（Helpful, Honest, Harmless）标准。然而，当前开源社区中复现 RLHF 技术仍具有较大挑战性，相关研究逐渐走向封闭。尚未有团队公开复现 RLHF 所需的数据、代码基准和验证流程，这极大地阻碍了 RLHF 科研的发展。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+另一方面，尽管大语言模型的巨大成功得益于 RLHF 技术，但同时也面临着该技术带来的诸多问题。在 RLHF 中，标注员对大语言模型产生的回答进行偏好性打分，通过这些打分形成的偏序关系来训练模型。然而，由于人们的价值观、世界观存在差异，以及每个人所处地域文化、语言、习俗的不同，这些差异在标注过程中可能产生偏见和歧视性数据，导致目前依赖 RLHF 技术取得巨大成功的大语言模型也存在潜在的不安全问题。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+为解决上述两个难题，北京大学团队开源了名为 PKU-Beaver（河狸）项目，其开源地址为：https://github.com/PKU-Alignment/safe-rlhf。'
