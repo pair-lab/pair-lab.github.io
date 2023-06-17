@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         Join us!
-      email: jiamg.ji@gmail.com
+      email: yaodong.yang@outlook.com
       # phone: 888 888 88 88
       address:
         street: No. 5, Yiheyuan Road, Haidian District

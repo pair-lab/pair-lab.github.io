@@ -1,10 +1,7 @@
 ---
 title: 'PKU-Beaver: Constrained Value-Aligned LLM via Safe RLHF'
 
-event: Open-Source Project
-event_url: https://example.org
-
-summary: SafeRL Open-Source Project
+summary: a highly modular open-source RLHF framework developed by the PKU-Alignment team
 abstract: 'Beaver is a highly modular open-source RLHF framework developed by the PKU-Alignment team at Peking University. It aims to provide training data and a reproducible code pipeline for alignment research, especially constrained alignment LLM research via Safe RLHF methods.'
 
 # Talk start and end times.
