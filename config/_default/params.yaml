@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: 'pair_lab'
   theme_night:
-  font: native
-  font_size: L
+  font: Rose
+  font_size: m
 
 # SEO
 
@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
+    org_name: 'PAIR Lab'
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
     twitter: 'GetResearchDev'
   analytics:
@@ -38,16 +38,16 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2023} Copyright by the PAIR Lab'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
