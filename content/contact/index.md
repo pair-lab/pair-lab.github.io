@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Join us!
+        Join us! The contact page is currently under development. Please email Prof. Yaodong Yang to join us.
       email: yaodong.yang@outlook.com
       # phone: 888 888 88 88
       address:
