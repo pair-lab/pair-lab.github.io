@@ -21,27 +21,6 @@ organizations:
   - name: Peking University
     url: 'https://www.pku.edu.cn/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include game theory, reinforcement learning and multi-agent systems, aiming to achieve artificial general collective intelligence through multi-agent reinforcement learning.
-
-interests:
-  - Game Theory
-  - Reinforcement Learning
-  - Multi-agent Systems
-  - LLM and Alignment
-
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: University College London
-      year: 2016 - 2021
-    - course: MSc in Science (Quant.Biology/Biostatistics)
-      institution: Imperial College London
-      year: 2013 - 2014
-    - course: BSc in Electronic Engineering & Information Science
-      institution: University of Science and Technology of China
-      year: 2009 - 2013
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -70,5 +49,3 @@ email: ''
 user_groups:
   - Faculty
 ---
-
-Yaodong is an assistant professor at Institute for AI, Peking University. Before joining Peking University, he was an assistant professor at King's College London. He studies game theory, reinforcement learning and multi-agent systems, aiming to achieve artificial general collective intelligence through multi-agent reinforcement learning. He has maintained a track record of more than sixty publications at top conferences (NeurIPS, ICML, ICLR, etc) and top journals (Artificial Intelligence, National Science Review, etc), along with the best system paper award at CoRL 2020 and the best blue-sky paper award at AAMAS 2021. He was awarded ACM SIGAI China Rising Star and World AI Conference (WAIC'22) Rising Star. He holds a Ph.D. degree from University College London (nominated by UCL for Joint AAAI/ACM SIGAI Doctoral Dissertation Award), an M.Sc. degree from Imperial College London and a Bachelor degree from University of Science and Technology of China.
