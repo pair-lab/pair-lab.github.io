@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yuliang Zhou
+title: Weitao Wang
 
 # Full name (for SEO)
-first_name: Yuliang
-last_name: Zhou
+first_name: Weitao
+last_name: Wang
 
 # Username (this should match the folder name)
 # authors:
-#   - Yuliang_Zhou
+#   - Wentao_Wang
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,18 +26,15 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house
+    icon_pack: fas
+    link: https://weitaowang2001.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'wangweitao@stu.pku.edu.cn'
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
