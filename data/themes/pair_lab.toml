@@ -1,0 +1,23 @@
+# Theme metadata
+name = "pair_lab"
+
+[light]
+  # Primary
+  primary = "#1565c0"
+
+  # Menu
+  menu_primary = "#94070A"
+  menu_text = "#F9F5F6"
+  menu_text_active = "#F8E8EE"
+  menu_title = "#F9F5F6"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

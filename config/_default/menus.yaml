@@ -7,14 +7,14 @@ main:
   # - name: Tour
   #   url: tour
   #   weight: 10
-  - name: News
-    url: post
+  - name: Talks
+    url: talks
     weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Open-Source Projects
+    url: open_source_projects
     weight: 40
   - name: Publications
     url: publication

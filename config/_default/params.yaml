@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: 'pair_lab'
   theme_night:
-  font: native
-  font_size: L
+  font: Rose
+  font_size: m
 
 # SEO
 
