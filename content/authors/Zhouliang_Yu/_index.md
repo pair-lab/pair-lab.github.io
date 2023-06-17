@@ -26,7 +26,6 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-social:
   - icon: house
     icon_pack: fas
     link: https://sites.google.com/view/zhouliangyu/home
