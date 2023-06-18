@@ -12,31 +12,21 @@ sections:
       interval: 10
     content:
       slides:
-      # - title: PAIR Lab
-      #   content: Take a look at what we're working on...
-      #   align: center
-      #   background:
-      #     image:
-      #       filename: welcome.jpg
-      #       filters:
-      #         brightness: 0.7
-      #     position: right
-      #     color: '#666'
-      #   link:
-      #     icon: graduation-cap
-      #     icon_pack: fas
-      #     text: Recent News
-      #     url: ../talks/
-      - title: "BAAI2023: Safe Value Alignment for LLM"
-        content: 'AI安全与对齐论坛'
+      - title: "China XYZ: Artificial intelligence"
+        content: 国务院新闻办中国网Talk
         align: center
         background:
           image:
-            filename: baai.png
+            filename: china_org.png
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
-          color: '#555'
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
       - title: PKU-Alignment Team
         content: Take a look at what we're working on...
         align: center
@@ -52,6 +42,61 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+      - title: "BAAI2023: Safe Value Alignment for LLM"
+        content: 'AI安全与对齐论坛'
+        align: center
+        background:
+          image:
+            filename: baai.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: "基于大语言模型的开放世界智能决策"
+        content: "[RLChina 2023] 专题报告"
+        align: center
+        background:
+          image:
+            filename: rlchina.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Recent News
+          url: ../talks/
+      - title: "一个合作博弈的通用求解框架"
+        content: "TechBeat 22-23最受欢迎讲者"
+        align: center
+        background:
+          image:
+            filename: cop.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Recent News
+          url: ../talks/
+      - title: "一个通用零和博弈的求解框架"
+        content: "TechBeat 21-22最受欢迎讲者"
+        align: center
+        background:
+          image:
+            filename: zero.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Recent News
+          url: ../talks/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
