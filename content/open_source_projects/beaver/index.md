@@ -24,7 +24,7 @@ featured: true
 #   focal_point: Right
 
 url_code: 'https://github.com/PKU-Alignment/safe-rlhf'
-# url_pdf: ''
+url_pdf: 'https://www.jiqizhixin.com/articles/2023-05-19-4'
 # url_slides: ''
 url_video: 'https://mp.weixin.qq.com/s/JTByU5vjHJlgPBscGE02QA'
 

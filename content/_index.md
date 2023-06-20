@@ -13,11 +13,11 @@ sections:
     content:
       slides:
       - title: The PAIR Lab 
-        content: We work on decision making, strategic interaction and alignment
+        content: decision making, strategic interaction, and AI-human alignment
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: welcome2.jpg
             filters:
               brightness: 0.5
           position: center
@@ -43,7 +43,7 @@ sections:
           text: Talks
           url: ./talks/23-06-10-baai/
       - title: "基于大语言模型的开放世界智能决策"
-        content: "[RLChina 2023] 专题报告"
+        content: "RLChina 2023 专题报告"
         align: center
         background:
           image:
@@ -58,7 +58,7 @@ sections:
           text: Talks
           url: ../talks/
       - title: "一个合作博弈的通用求解框架"
-        content: "TechBeat 22-23最受欢迎讲者"
+        content: "TechBeat 2022年度最受欢迎讲者"
         align: center
         background:
           image:
@@ -73,7 +73,7 @@ sections:
           text: Talks
           url: ../talks/
       - title: "一个通用零和博弈的求解框架"
-        content: "TechBeat 21-22最受欢迎讲者"
+        content: "TechBeat 2021年度最受欢迎讲者"
         align: center
         background:
           image:
@@ -88,7 +88,7 @@ sections:
           text: Talks
           url: ../talks/
       - title: "China XYZ: Artificial intelligence"
-        content: 国务院新闻办中国网
+        content: 国务院新闻办中国网China.org
         align: center
         background:
           image:
@@ -109,17 +109,17 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 4000
+      interval: 3500
   - block: hero
     content:
       title: |
-        The PAIR Lab
+        Our Mission
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        <font size=4.5>At the PKU Alignment and Interaction Research Lab (PAIR Lab), we address the fundamental challenges in decision-making, strategic interactions, and value alignment towards achieving AGI. Our expertise encompasses **reinforcement learning** for refined decision-making, **multi-agent systems and game theory** for complex interactions, and **RLHF** techniques for secure AGI-human value alignment. Our integrative methodology aims to guide AGI development towards a safe, beneficial future in synchrony with humanity.</font>
+
+        <font size=4.5>At the PKU Alignment and Interaction Research Lab (PAIR Lab), we address the fundamental challenges in decision-making, strategic interactions, and value alignment towards achieving artificial general intelligence (AGI). Our expertise encompasses **reinforcement learning** for refined decision-making, **multi-agent systems and game theory** for complex    strategic interactions, and **RLHF** techniques for secure AGI-human value alignment. Our integrative methodology aims to guide AGI development towards a safe, beneficial future in synchrony with humanity and eternal prosperity of mankind.</font>
   
   # - block: collection
   #   content:
