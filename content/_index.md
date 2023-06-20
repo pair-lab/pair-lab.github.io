@@ -27,7 +27,7 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
-      - title: " Safe Value Alignment for LLM"
+      - title: "Safe Value Alignment for LLMs"
         content: '智源大会：AI安全与对齐论坛'
         align: center
         background:
@@ -41,7 +41,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Talks
-          url: ./talks/23-06-10-baai/
+          url: https://www.bilibili.com/video/BV1gh411T7qS
       - title: "基于大语言模型的开放世界智能决策"
         content: "RLChina 2023 专题报告"
         align: center
@@ -56,7 +56,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Talks
-          url: ../talks/
+          url: https://www.bilibili.com/video/BV1hg4y1x7iT
       - title: "一个合作博弈的通用求解框架"
         content: "TechBeat 2022年度最受欢迎讲者"
         align: center
@@ -71,7 +71,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Talks
-          url: ../talks/
+          url: https://www.techbeat.net/talk-info?id=715
       - title: "一个通用零和博弈的求解框架"
         content: "TechBeat 2021年度最受欢迎讲者"
         align: center
@@ -86,7 +86,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Talks
-          url: ../talks/
+          url: https://www.techbeat.net/talk-info?id=501
       - title: "China XYZ: Artificial intelligence"
         content: 国务院新闻办中国网China.org
         align: center
@@ -101,7 +101,22 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Interview
-          url: ../contact/
+          url: http://mp42.china.com.cn/video_tide/video/2023/5/30/20235301685434452218_369_3.mp4
+      - title: "新征程上科教兴国还需人才支撑"
+        content: 央视一套《焦点访谈》
+        align: center
+        background:
+          image:
+            filename: jiaodian.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Interview
+          url: https://tv.cctv.com/2022/11/25/VIDEUpzcpDMv6qH5hivGIGqH221125.shtml
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

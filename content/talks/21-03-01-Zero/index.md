@@ -21,4 +21,4 @@ date: 2021-03-18
 
 6、一些系统层面的思考Talk
 
-[视频地址](https://www.techbeat.net/talk-info?id=501)
+[视频链接](https://www.techbeat.net/talk-info?id=501)

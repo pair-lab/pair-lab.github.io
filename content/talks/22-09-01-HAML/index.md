@@ -9,4 +9,4 @@ date: 2022-09-01
 
 HAML 提供了一个通用的算法设计范式，它可以催生出一系列的有效的合作博弈求解算法例如 HAPPO, HATRPO, MACPO, Mutli-agent Transformer 等，并且HAML 算法框架中的成员都天然具有严格的单调递增性的保证。此外，HAML 框架还提供了一系列新的多智能体算法，例如 HADDPG, HADQN, HAA3C。在一系列合作博弈场景，例如星际争霸，灵巧双手操作上，他们都达到了 SOTA 水平。
 
-[Talk地址](https://www.techbeat.net/talk-info?id=715)
+[视频链接](https://www.techbeat.net/talk-info?id=715)
