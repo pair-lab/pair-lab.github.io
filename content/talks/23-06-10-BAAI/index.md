@@ -1,5 +1,5 @@
 ---
-title: '2023北京智源大会-AI安全与对齐论坛-Safe Alignment for LLM'
+title: '2023北京智源大会-AI安全与对齐论坛： Safe Alignment for LLMs'
 date: 2023-06-10
 image:
   focal_point: 'top'

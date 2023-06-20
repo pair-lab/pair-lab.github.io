@@ -1,5 +1,5 @@
 ---
-title: Open-Source Projects from the PAIR Lab
+title: Open-Source Projects
 
 # Listing view
 view: compact

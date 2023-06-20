@@ -118,9 +118,14 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-
-        <font size=4.5>At the PKU Alignment and Interaction Research Lab (PAIR Lab), we address the fundamental challenges in decision-making, strategic interactions, and value alignment towards achieving artificial general intelligence (AGI). Our expertise encompasses **reinforcement learning** for refined decision-making, **multi-agent systems and game theory** for complex    strategic interactions, and **RLHF** techniques for secure AGI-human value alignment. Our integrative methodology aims to guide AGI development towards a safe, beneficial future in synchrony with humanity and eternal prosperity of mankind.</font>
-  
+        
+        <font size=4.5>The PKU Alignment and Interaction Research Lab (PAIR Lab) is dedicated to addressing key challenges in decision making, strategic interactions, and value alignment for artificial general intelligence (AGI). We specialize in reinforcement learning for intelligent decisions, multi-agent systems for complex stratrgic interactions, and alignment techniques for harmonizing AGI with human values and intentions. Our integrative approach aims to steer AGI development towards a safe, beneficial future aligned with the progression of humanity. Our research focus includes: </font>
+        <font size=3.8>
+        - **Reinforcement Learning**: safe RL, MARL, meta RL, offline RL, PbRL
+        - **Game Theory**: solution concepts, game decomposition, meta-game analysis
+        - **Alignment**: RLHF, multi-agent alginment, self-alignment, constitutional AI
+        
+        </font>
   # - block: collection
   #   content:
   #     title: Latest News
