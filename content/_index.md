@@ -32,7 +32,7 @@ sections:
         align: center
         background:
           image:
-            filename: baai.png
+            filename: align.jpg
             filters:
               brightness: 0.7
           position: center
