@@ -9,13 +9,13 @@ main:
   #   weight: 10
   - name: Talks
     url: talks
-    weight: 20
+    weight: 30
   - name: People
     url: people
-    weight: 30
+    weight: 20
   - name: Open-Source Projects
     url: open_source_projects
-    weight: 40
+    weight: 10
   - name: Publications
     url: publication
     weight: 50

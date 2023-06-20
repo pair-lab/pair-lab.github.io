@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         Join us! The contact page is currently under development. Please email Prof. Yaodong Yang to join us.
-      email: yaodong.yang@outlook.com
+      email: myfirstname.yang@pku.edu.cn
       # phone: 888 888 88 88
       address:
         street: No. 5, Yiheyuan Road, Haidian District
