@@ -11,11 +11,11 @@ authors:
   - Jiangcheng Zhu
   - Yaodong Yang
   - Jun Wang
-date: '2022-01-01T00:00:00Z'
+date: '2021-12-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-01-01T00:00:00Z'
+publishDate: '2021-12-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,8 +24,8 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Tenth International Conference on Learning Representations
-publication_short: ICLR 2022
+publication: Tenth International Conference on Learning Representations (ICLR 2022)
+# publication_short: ICLR 2022
 
 abstract: Efficient exploration is important for reinforcement learners to achieve high rewards. In multi-agent systems, coordinated exploration and behaviour is critical for agents to jointly achieve optimal outcomes. In this paper, we introduce a new general framework for improving coordination and performance of multi-agent reinforcement learners (MARL). Our framework, named Learnable Intrinsic-Reward Generation Selection algorithm (LIGS) introduces an adaptive learner, Generator that observes the agents and learns to construct intrinsic rewards online that coordinate the agents' joint exploration and joint behaviour. Using a novel combination of MARL and switching controls, LIGS determines the best states to learn to add intrinsic rewards which leads to a highly efficient learning process. LIGS can subdivide complex tasks making them easier to solve and enables systems of MARL agents to quickly solve environments with sparse rewards. LIGS can seamlessly adopt existing MARL algorithms and, our theory shows that it ensures convergence to policies that deliver higher system performance. We demonstrate its superior performance in challenging tasks in Foraging and StarCraft II.
 

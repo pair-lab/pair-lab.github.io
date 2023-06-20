@@ -1,23 +1,18 @@
 ---
-title: 'Learning to Shape Rewards using a Game of Two Partners'
+title: 'On the Convergence of Fictitious Play: A Decomposition Approach'
 authors:
+  - Yurong Chen
+  - Xiaotie Deng
+  - Chenchen Li
   - David Mguni
-  - Taher Jafferjee
-  - Jianhong Wang
-  - Nicolas Perez-Nieves
-  - Tianpei Yang
-  - Matthew Taylor
-  - Wenbin Song
-  - Feifei Tong
-  - Hui Chen
-  - Jiangcheng Zhu
   - Jun Wang
+  - Xiang Yan
   - Yaodong Yang
-date: '2023-01-01T00:00:00Z'
+date: '2022-05-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: '2022-05-03T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +21,10 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023)
-# publication_short: AAAI 2023
+publication: The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
+# publication_short: IJCAI 2022
 
-abstract: "Reward shaping (RS) is a powerful method in reinforcement learning (RL) for overcoming the problem of sparse or uninformative rewards. However, RS typically relies on manually engineered shaping-reward functions whose construction is time-consuming and error-prone. It also requires domain knowledge which runs contrary to the goal of autonomous learning. We introduce Reinforcement Learning Optimising Shaping Algorithm (ROSA), an automated reward shaping framework in which the shaping-reward function is constructed in a Markov game between two agents. A reward-shaping agent (Shaper) uses switching controls to determine which states to add shaping rewards for more efficient learning while the other agent (Controller) learns the optimal policy for the task using these shaped rewards. We prove that ROSA, which adopts existing RL algorithms, learns to construct a shaping-reward function that is beneficial to the task thus ensuring efficient convergence to high performance policies. We demonstrate ROSA's properties in three didactic experiments and show its superior performance against state-of-the-art RS algorithms in challenging sparse reward environments."
+abstract: Fictitious play (FP) is one of the most fundamental game-theoretical learning frameworks for computing Nash equilibrium in n-player games, which builds the foundation for modern multi-agent learning algorithms. Although FP has provable convergence guarantees on zero-sum games and potential games, many real-world problems are often a mixture of both and the convergence property of FP has not been fully studied yet. In this paper, we extend the convergence results of FP to the combinations of such games and beyond. Specifically, we derive new conditions for FP to converge by leveraging game decomposition techniques. We further develop a linear relationship unifying cooperation and competition in the sense that these two classes of games are mutually transferable. Finally, we analyze a non-convergent example of FP, the Shapley game, and develop sufficient conditions for FP to converge.
 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
@@ -40,7 +35,7 @@ featured: true
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://arxiv.org/abs/2103.09159
+url_pdf: https://arxiv.org/abs/2205.01469
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

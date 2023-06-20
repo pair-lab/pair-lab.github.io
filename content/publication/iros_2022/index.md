@@ -1,18 +1,18 @@
 ---
-title: 'On the Convergence of Fictitious Play: A Decomposition Approach'
+title: 'Scalable Model-based Policy Optimization for Decentralized Networked Systems'
 authors:
-  - Yurong Chen
-  - Xiaotie Deng
-  - Chenchen Li
-  - David Mguni
+  - Yali Du
+  - Chengdong Ma
+  - Yuchen Liu
+  - Runji Lin
+  - Hao Dong
   - Jun Wang
-  - Xiang Yan
   - Yaodong Yang
-date: '2022-02-01T00:00:00Z'
+date: '2022-03-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-02-01T00:00:00Z'
+publishDate: '2022-03-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,10 +21,10 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: the 31st International Joint Conference on Artificial Intelligence
-publication_short: IJCAI 2022
+publication: The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication_short: IROS 2022
 
-abstract: Fictitious play (FP) is one of the most fundamental game-theoretical learning frameworks for computing Nash equilibrium in n-player games, which builds the foundation for modern multi-agent learning algorithms. Although FP has provable convergence guarantees on zero-sum games and potential games, many real-world problems are often a mixture of both and the convergence property of FP has not been fully studied yet. In this paper, we extend the convergence results of FP to the combinations of such games and beyond. Specifically, we derive new conditions for FP to converge by leveraging game decomposition techniques. We further develop a linear relationship unifying cooperation and competition in the sense that these two classes of games are mutually transferable. Finally, we analyze a non-convergent example of FP, the Shapley game, and develop sufficient conditions for FP to converge.
+abstract: Reinforcement learning algorithms require a large amount of samples; this often limits their real-world applications on even simple tasks. Such a challenge is more outstanding in multi-agent tasks, as each step of operation is more costly requiring communications or shifting or resources. This work aims to improve data efficiency of multi-agent control by model-based learning. We consider networked systems where agents are cooperative and communicate only locally with their neighbors, and propose the decentralized model-based policy optimization framework (DMPO). In our method, each agent learns a dynamic model to predict future states and broadcast their predictions by communication, and then the policies are trained under the model rollouts. To alleviate the bias of model-generated data, we restrain the model usage for generating myopic rollouts, thus reducing the compounding error of model generation. To pertain the independence of policy update, we introduce extended value function and theoretically prove that the resulting policy gradient is a close approximation to true policy gradients. We evaluate our algorithm on several benchmarks for intelligent transportation systems, which are connected autonomous vehicle control tasks (Flow and CACC) and adaptive traffic signal control (ATSC). Empirically results show that our method achieves superior data efficiency and matches the performance of model-free methods using true models.
 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
@@ -35,7 +35,7 @@ featured: true
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://arxiv.org/abs/2205.01469
+url_pdf: https://arxiv.org/abs/2207.06559
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
