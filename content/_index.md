@@ -102,7 +102,7 @@ sections:
           icon_pack: fas
           text: Interview
           url: http://mp42.china.com.cn/video_tide/video/2023/5/30/20235301685434452218_369_3.mp4
-      - title: "新征程上科教兴国还需人才支撑"
+      - title: "主题节目：新征程上科教兴国还需人才支撑"
         content: 央视一套《焦点访谈》
         align: center
         background:
