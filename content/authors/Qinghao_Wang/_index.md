@@ -14,7 +14,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: Phd'23
+role: Phd'22
 
 # Organizations/Affiliations
 organizations:
