@@ -9,19 +9,19 @@ sections:
     content:
       title: Contact
       text: |-
-        Join us! The contact page is currently under development. Please email Prof. Yaodong Yang to join us.
+        Join us if you are passionate about the mission of our PAIR lab.
       email: myfirstname.yang@pku.edu.cn
       # phone: 888 888 88 88
       address:
-        street: No. 5, Yiheyuan Road, Haidian District
+        street: 2209A West Ziyuan Building, Peking University, Haidian District
         city: Beijing
         region: China
         postcode: '100871'
         country: China
         country_code: CN
       coordinates:
-        latitude: '39.9935'
-        longitude: '116.3035'
+        latitude: '39.98786'
+        longitude: '116.31302'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
