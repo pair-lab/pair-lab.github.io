@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Join us if you are passionate about the mission of our PAIR lab.
+        **<center><font color="red" size=5>PAIR Lab长期招收科研助理与实习生（带薪）</font></center>**
       email: myfirstname.yang@pku.edu.cn
       # phone: 888 888 88 88
       address:

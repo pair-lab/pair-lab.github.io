@@ -1,5 +1,5 @@
 ---
-title: 'MALib: A parallel framework for population-based reinforcement learning'
+title: 'MALib: A Parallel Framework for Population-based Reinforcement Learning'
 
 summary: a parallel framework of population-based learning nested with reinforcement learning methods
 abstract: 'MALib is a parallel framework of population-based learning nested with reinforcement learning methods, such as Policy Space Response Oracle, Self-Play, and Neural Fictitious Self-Play. MALib provides higher-level abstractions of MARL training paradigms, which enables efficient code reuse and flexible deployments on different distributed computing paradigms.'

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd'24
+role: Phd'24 (expected)
 
 # Organizations/Affiliations
 organizations:
