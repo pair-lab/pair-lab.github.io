@@ -14,7 +14,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Phd'23, co-advised with Prof. Song-Chun Zhu
+role: Phd'23, co-advised with Dr. Siyuan Qi
 
 # Organizations/Affiliations
 organizations:
