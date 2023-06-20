@@ -13,7 +13,7 @@ sections:
     content:
       slides:
       - title: The PAIR Lab 
-        content: decision making, strategic interaction, and AI-human alignment
+        content: decision making, strategic interaction, and human-AI alignment
         align: center
         background:
           image:
