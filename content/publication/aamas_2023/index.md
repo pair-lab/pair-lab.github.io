@@ -8,11 +8,11 @@ authors:
   - Jun Wang
   - Yaodong Yang
   - Xiaotie Deng
-date: '2023-03-01T00:00:00Z'
+date: '2023-05-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-03-01T00:00:00Z'
+publishDate: '2023-05-30T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,8 +21,8 @@ publishDate: '2023-03-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: The 22nd International Conference on Autonomous Agents and Multiagent Systems
-publication_short: AAMAS 2023
+publication: Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+# publication_short: AAMAS 2023
 
 abstract: "In this paper, we investigate the learnability of the function approximator that approximates Nash equilibrium (NE) for games generated from a distribution. First, we offer a generalization bound using the Probably Approximately Correct (PAC) learning model. The bound describes the gap between the expected loss and empirical loss of the NE approximator. Afterward, we prove the agnostic PAC learnability of the Nash approximator. In addition to theoretical analysis, we demonstrate an application of NE approximator in experiments. The trained NE approximator can be used to warm-start and accelerate classical NE solvers. Together, our results show the practicability of approximating NE through function approximation."
 
@@ -35,7 +35,7 @@ featured: true
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://arxiv.org/abs/2108.07472
+url_pdf: https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p233.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

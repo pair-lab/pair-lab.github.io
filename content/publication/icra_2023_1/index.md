@@ -7,11 +7,11 @@ authors:
   - Yuanpei Chen
   - Yaodong Yang
   - Hao Dong
-date: '2023-04-01T00:00:00Z'
+date: '2022-09-26T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-04-01T00:00:00Z'
+publishDate: '2022-09-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,8 +20,8 @@ publishDate: '2023-04-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 2023 IEEE International Conference on Robotics and Automation
-publication_short: ICRA 2023
+publication: 2023 IEEE International Conference on Robotics and Automation (ICRA 2023)
+# publication_short: ICRA 2023
 
 abstract: "Learning to manipulate 3D objects in an interactive environment has been a challenging problem in Reinforcement Learning (RL). In particular, it is hard to train a policy that can generalize over objects with different semantic categories, diverse shape geometry and versatile functionality. Recently, the technique of visual affordance has shown great prospects in providing object-centric information priors with effective actionable semantics. As such, an effective policy can be trained to open a door by knowing how to exert force on the handle. However, to learn the affordance, it often requires human-defined action primitives, which limits the range of applicable tasks. In this study, we take advantage of visual affordance by using the contact information generated during the RL training process to predict contact maps of interest. Such contact prediction process then leads to an end-to-end affordance learning framework that can generalize over different types of manipulation tasks. Surprisingly, the effectiveness of such framework holds even under the multi-stage and the multi-agent scenarios. We tested our method on eight types of manipulation tasks. Results showed that our methods outperform baseline algorithms, including visual-based affordance methods and RL methods, by a large margin on the success rate. The demonstration can be found at https://sites.google.com/view/rlafford/."
 

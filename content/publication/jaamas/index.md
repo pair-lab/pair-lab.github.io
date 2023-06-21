@@ -6,25 +6,27 @@ authors:
  - Long Tran-Thanh
  - Jun Wang
  - Yaodong Yang
-date: '2023-05-21T00:00:00Z'
+date: '2021-10-07T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-05-21T00:00:00Z'
+publishDate: '2021-10-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication:  Autonomous Agents and Multi-Agent Systems (2023)
-publication_short: JAAMAS 2023
+# publication_short: JAAMAS 2023
 
-abstract: "This paper introduces a distributed, GPU-centric experience replay system, GEAR, designed to perform scalable reinforcement learning (RL) with large sequence models (such as transformers). With such models, existing systems such
-as Reverb face considerable bottlenecks in memory, computation, and communication. GEAR, however, optimizes memory efficiency by enabling the memory resources on GPU servers (including host memory and device memory) to manage trajectory data. Furthermore, it facilitates decentralized GPU devices to expedite various trajectory selection strategies, circumventing computational bottlenecks. GEAR is equipped with GPU kernels capable of collecting trajectories using zero-copy access to host memory, along with remote-directed-memory access over InfiniBand, improving communication efficiency. 
-Cluster experiments have shown that GEAR can achieve performance levels up to 6× greater than Reverb when training state-of-the-art large RL models. GEAR is open-sourced at https://github.com/bigrl-team/gear."
+abstract: "
+We study a novel setting in Online Markov Decision Processes (OMDPs) where the loss function is chosen by a non-oblivious strategic adversary who follows a no-external regret algorithm. In this setting, we first demonstrate that MDP-Expert, an existing algorithm that works well with oblivious adversaries can still apply and achieve a policy regret bound of O(Tlog(L)−−−−−−−√+τ2Tlog(|A|)−−−−−−−−√)
+ where L is the size of adversary’s pure strategy set and |A|
+ denotes the size of agent’s action space.Considering real-world games where the support size of a NE is small, we further propose a new algorithm: MDP-Online Oracle Expert (MDP-OOE), that achieves a policy regret bound of O(Tlog(L)−−−−−−−√+τ2Tklog(k)−−−−−−−√)
+ where k depends only on the support size of the NE. MDP-OOE leverages the key benefit of Double Oracle in game theory and thus can solve games with prohibitively large action space. Finally, to better understand the learning dynamics of no-regret methods, under the same setting of no-external regret adversary in OMDPs, we introduce an algorithm that achieves last-round convergence to a NE result. To our best knowledge, this is the first work leading to the last iteration result in OMDPs."
 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
@@ -35,7 +37,7 @@ featured: true
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://openreview.net/pdf?id=elL6uw9qOX
+url_pdf: https://arxiv.org/pdf/2110.03604.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

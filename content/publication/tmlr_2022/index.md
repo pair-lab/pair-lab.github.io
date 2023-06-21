@@ -10,11 +10,11 @@ authors:
   - David Henry Mguni
   - Haitham Bou Ammar
   - Jun Wang
-date: '2022-02-01T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-02-01T00:00:00Z'
+publishDate: '2022-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,10 +23,10 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Transactions on Machine Learning Research
-publication_short: TMLR
+publication: Transactions on Machine Learning Research (TMLR)
+# publication_short: TMLR
 
-# abstract: Fictitious play (FP) is one of the most fundamental game-theoretical learning frameworks for computing Nash equilibrium in n-player games, which builds the foundation for modern multi-agent learning algorithms. Although FP has provable convergence guarantees on zero-sum games and potential games, many real-world problems are often a mixture of both and the convergence property of FP has not been fully studied yet. In this paper, we extend the convergence results of FP to the combinations of such games and beyond. Specifically, we derive new conditions for FP to converge by leveraging game decomposition techniques. We further develop a linear relationship unifying cooperation and competition in the sense that these two classes of games are mutually transferable. Finally, we analyze a non-convergent example of FP, the Shapley game, and develop sufficient conditions for FP to converge.
+abstract: Solving strategic games with huge action space is a critical yet under-explored topic in economics, operations research and artificial intelligence. This paper proposes new learning algorithms for solving two-player zero-sum normal-form games where the number of pure strategies is prohibitively large. Specifically, we combine no-regret analysis from online learning with Double Oracle (DO) methods from game theory. Our method -- \emph{Online Double Oracle (ODO)} -- is provably convergent to a Nash equilibrium (NE). Most importantly, unlike normal DO methods, ODO is \emph{rationale} in the sense that each agent in ODO can exploit strategic adversary with a regret bound of  where  is not the total number of pure strategies, but rather the size of \emph{effective strategy set} that is linearly dependent on the support size of the NE. On tens of different real-world games, ODO outperforms DO, PSRO methods, and no-regret algorithms such as Multiplicative Weight Update by a significant margin, both in terms of convergence rate to a NE and average payoff against strategic adversaries.
 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
@@ -37,7 +37,7 @@ featured: true
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://arxiv.org/abs/2103.07780
+url_pdf: https://openreview.net/pdf?id=rrMK6hYNSx
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
