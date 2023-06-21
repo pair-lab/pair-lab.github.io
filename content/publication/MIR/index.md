@@ -33,7 +33,10 @@ abstract: 'Offline reinforcement learning leverages previously collected offline
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Offline Reinforcement Learning
+ - Multi-Agent Reinforcement Learning
+ - Offline Multi-Agent Reinforcement Learning
 featured: true
 
 # links:

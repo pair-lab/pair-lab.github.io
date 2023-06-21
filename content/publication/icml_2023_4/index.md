@@ -30,7 +30,9 @@ abstract: "This paper introduces a distributed, GPU-centric experience replay sy
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Reinforcement Learning
+ - Machine Learning System
 featured: true
 
 # links:

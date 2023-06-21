@@ -28,11 +28,11 @@ abstract: Similar to the role of Markov decision processes in reinforcement lear
 summary: We introduce approximate Markov perfect equilibrium as a solution to the computational problem of finite-state stochastic games repeated in the infinite horizon and prove its PPAD-completeness.
 
 tags:
-  - Markov game
-  - multi-agent reinforcement learning
-  - Markov perfect equilibrium
-  - PPAD-completeness
-  - stochastic game
+  - Markov Game
+  - Multi-Agent Reinforcement Learning
+  - Markov Perfect Equilibrium
+  - PPAD-Completeness
+  - Stochastic Game
 featured: false
 
 # links:

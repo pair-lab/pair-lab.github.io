@@ -28,7 +28,9 @@ abstract: "In order for agents in multi-agent systems (MAS) to be safe, they nee
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Multi-Agent Reinforcement Learning
+ - Game Theory
 featured: true
 
 # links:

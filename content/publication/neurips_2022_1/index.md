@@ -26,7 +26,9 @@ abstract: Setting up a well-designed reward function has been challenging for ma
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Reinforcement Learning
+ - Preference-Based Reinforcement Learning
 featured: true
 
 # links:

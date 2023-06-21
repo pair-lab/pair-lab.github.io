@@ -26,7 +26,8 @@ abstract: Deep neural networks can capture the intricate interaction history inf
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Knowledge Distillation
 featured: true
 
 # links:

@@ -28,6 +28,9 @@ publication: Journal of Machine Learning Research (JMLR)
 
 abstract: "Population-based multi-agent reinforcement learning (PB-MARL) encompasses a range of methods that merge dynamic population selection with multi-agent reinforcement learning algorithms (MARL). While PB-MARL has demonstrated notable achievements in complex multi-agent tasks, its sequential execution is plagued by low computational efficiency due to the diversity in computing patterns and policy combinations. We propose a solution involving a stateless central task dispatcher and stateful workers to handle PB-MARL’s subroutines, thereby capitalizing on parallelism across various components for efficient problem-solving. In line with this approach, we introduce MALib, a parallel framework that incorporates a task control model, independent data servers, and an abstraction of MARL training paradigms. The framework has undergone extensive testing and is available under the MIT license (https://github.com/sjtu-marl/malib)."
 
+tags:
+ - Population-Based Multi-Agent Reinforcement Learning
+ - Machine Learning Software
 
 featured: false
 

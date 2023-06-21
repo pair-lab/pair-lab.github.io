@@ -29,7 +29,9 @@ abstract: Large sequence models (SM) such as GPT series and BERT have displayed 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Multi-Agent Reinforcement Learning
+ - Sequence Models
 featured: true
 
 # links:

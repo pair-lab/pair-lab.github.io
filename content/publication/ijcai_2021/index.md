@@ -29,7 +29,8 @@ abstract: Fictitious play (FP) is one of the most fundamental game-theoretical l
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Game Theory
 featured: true
 
 # links:

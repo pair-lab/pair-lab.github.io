@@ -32,7 +32,9 @@ abstract: Achieving human-level dexterity is an important open problem in roboti
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Robotics
+ - Reinforcement Learning
 featured: true
 
 # links:

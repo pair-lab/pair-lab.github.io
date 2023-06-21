@@ -26,6 +26,10 @@ publication: 'Artificial Intelligence (AIJ)'
 abstract: "A challenging problem in robotics is how to control multiple robots cooperatively and safely in real-world applications. Yet, developing multi-robot control methods from the perspective of safe multi-agent reinforcement learning (MARL) has merely been studied. To fill this gap, in this study, we investigate safe MARL for multi-robot control on cooperative tasks, in which each individual robot has to not only meet its own safety constraints while maximising their reward, but also consider those of others to guarantee safe team behaviours. Firstly, we formulate the safe MARL problem as a constrained Markov game and employ policy optimisation to solve it theoretically. The proposed algorithm guarantees monotonic improvement in reward and satisfaction of safety constraints at every iteration. Secondly, as approximations to the theoretical solution, we propose two safe multi-agent policy gradient methods: Multi-Agent Constrained Policy Optimisation (MACPO) and MAPPO-Lagrangian. Thirdly, we develop the first three safe MARL benchmarks—Safe Multi-Agent MuJoCo (Safe MAMuJoCo), Safe Multi-Agent Robosuite (Safe MARobosuite) and Safe Multi-Agent Isaac Gym (Safe MAIG) to expand the toolkit of MARL and robot control research communities. Finally, experimental results on the three safe MARL benchmarks indicate that our methods can achieve state-of-the-art performance in the balance between improving reward and satisfying safety constraints compared with strong baselines. Demos and code are available at the link (https://sites.google.com/view/aij-safe-marl/)."
 
 
+tags:
+ - Multi-Agent Reinforcement Learning
+ - Safe Multi-Agent Reinforcement Learning
+
 featured: false
 
 # links:

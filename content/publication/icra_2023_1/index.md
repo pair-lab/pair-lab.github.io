@@ -28,7 +28,10 @@ abstract: "Learning to manipulate 3D objects in an interactive environment has b
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
-tags: ''
+tags:
+ - Reinforcement Learning
+ - Robotics
+ - Visual Affordance
 featured: true
 
 # links:
