@@ -1,6 +1,6 @@
 ---
-title: Pair Lab实验室2023暑期科研
-summary: Pair Lab实验室2023暑期科研
+title: PAIR Lab实验室2023暑期科研
+summary: PAIR Lab实验室2023暑期科研
 date: "2023-06-30T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
