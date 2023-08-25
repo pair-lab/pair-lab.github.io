@@ -17,18 +17,18 @@ header:
 
 ## Research Advice
 
-- [The Three Golden Rules for Successful Scientific Research](http://www.cs.utexas.edu/~EWD/ewd06xx/EWD637.PDF) (by [Prof. E.W. Dijkstra](http://www.cs.utexas.edu/~EWD/) )
+- [The Three Golden Rules for Successful Scientific Research](http://www.cs.utexas.edu/~EWD/ewd06xx/EWD637.PDF) (by [Prof. E.W. Dijkstra](http://www.cs.utexas.edu/~EWD/))
 
-- [Some Modest Advice for Graduate Students](https://stearnslab.yale.edu/modest-advice) (by [Prof. Stephen C. Stearns](https://stearnslab.yale.edu/) )
+- [Some Modest Advice for Graduate Students](https://stearnslab.yale.edu/modest-advice) (by [Prof. Stephen C. Stearns](https://stearnslab.yale.edu/))
 
 - [How to Write a Good Research Paper](http://spoke.compose.cs.cmu.edu/write/) (by [Prof. Mary Shaw](http://www.cs.cmu.edu/~shaw/))
 
 - [Common Advice on Writing Research Papers](http://taoxie.cs.illinois.edu/publications/writepapers.pdf) (by [Prof. Tao Xie](http://taoxie.cs.illinois.edu/))
 
-- [Why I gave your paper a Strong Accept](http://matt-welsh.blogspot.hk/2016/04/why-i-gave-your-paper-strong-accept.html) (by [Matt Welsh](http://www.mdw.la/) )
+- [Why I gave your paper a Strong Accept](http://matt-welsh.blogspot.hk/2016/04/why-i-gave-your-paper-strong-accept.html) (by [Matt Welsh](http://www.mdw.la/))
 
 - [Why I gave your paper a Strong Reject](http://matt-welsh.blogspot.hk/2016/04/why-i-gave-your-paper-strong-reject.html) (by [Matt Welsh](http://www.mdw.la/))
 
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (by Prof. Richard Hamming)
 
-- [How to Give a Technical Presentation](http://homes.cs.washington.edu/~mernst/advice/giving-talk.html) (by [Prof. Michael Ernst](https://homes.cs.washington.edu/~mernst/) )
+- [How to Give a Technical Presentation](http://homes.cs.washington.edu/~mernst/advice/giving-talk.html) (by [Prof. Michael Ernst](https://homes.cs.washington.edu/~mernst/))
