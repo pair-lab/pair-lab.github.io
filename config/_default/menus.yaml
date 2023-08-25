@@ -19,6 +19,9 @@ main:
   - name: Ongoing Projects
     url: ongoing_project
     weight: 55
+  - name: Resources
+    url: resources
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 65
