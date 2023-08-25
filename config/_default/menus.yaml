@@ -16,9 +16,9 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Ongoing Projects
-    url: ongoing_project
-    weight: 55
+  # - name: Ongoing Projects
+  #   url: ongoing_project
+  #   weight: 55
   - name: Resources
     url: resources
     weight: 60
