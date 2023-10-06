@@ -32,3 +32,5 @@ header:
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (by Prof. Richard Hamming)
 
 - [How to Give a Technical Presentation](http://homes.cs.washington.edu/~mernst/advice/giving-talk.html) (by [Prof. Michael Ernst](https://homes.cs.washington.edu/~mernst/))
+
+- [优秀博士生和普通博士生差距能有多大？](https://www.zhihu.com/question/371659285/answer/2771642937?s_r=0&utm_campaign=shareopn&utm_medium=social&utm_oi=851431963985326080&utm_psn=1693176571161063424&utm_source=wechat_session)
