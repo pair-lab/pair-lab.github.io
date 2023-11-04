@@ -46,7 +46,6 @@
     {{ range $query }}
       {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
       {{/* Get link to user's profile page. */}}
-      {{ $link = .Params.external_link }}
       <div class="col-12 col-sm-auto people-person">
         {{ $src := "" }}
         {{ if site.Params.features.avatar.gravatar }}
@@ -56,12 +55,20 @@
           {{ $src = $avatar_image.RelPermalink }}
         {{ end }}
         {{ if $src }}
+          {{if .Params.external_link}}
+          {{ $link = .Params.external_link }}
+          {{end}}
           {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
           {{with $link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
         {{ end }}
 
         <div class="portrait-title">
+          {{if .Params.external_link}}
+          {{ $link = .Params.external_link }}
           <h2><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ .Title | markdownify | emojify }}</a></h2>
+          {{else}}
+          <h2><a>{{ .Title | markdownify | emojify }}</a></h2>
+          {{end}}
           {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
           {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
           {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
