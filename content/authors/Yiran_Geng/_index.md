@@ -48,5 +48,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergrad Students
+
+external_link: https://gengyiran.github.io
 ---
 

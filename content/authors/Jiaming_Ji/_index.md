@@ -28,7 +28,7 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://github.com/zmsn-2077
+    link: https://jijiaming.com/
   - icon: envelope
     icon_pack: fas
     link: 'jiamg.ji@gmail.com'
@@ -40,4 +40,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Phd Students
+
+external_link: https://jijiaming.com/
 ---

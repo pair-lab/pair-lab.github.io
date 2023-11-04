@@ -29,10 +29,10 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://gaiejj.github.io
+    link: https://github.com/Gaiejj
   - icon: envelope
     icon_pack: fas
-    link: '2204411702@stu.xjtu.edu.cn'
+    link: 'gaiejj@outlook.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -49,4 +49,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergrad Students
+
+external_link: https://github.com/Gaiejj
 ---
