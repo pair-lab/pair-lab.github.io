@@ -31,7 +31,7 @@ social:
     link: https://github.com/Ivan-Zhong
   - icon: envelope
     icon_pack: fas
-    link: 'zhongyifan001@gmail.com'
+    link: 'mailto:zhongyifan001@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

@@ -31,7 +31,7 @@ social:
     link: https://www.yangyaodong.com
   - icon: envelope
     icon_pack: fas
-    link: 'yaodong.yang@outlook.com'
+    link: 'mailto:yaodong.yang@outlook.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6yL0xw8AAAAJ&hl

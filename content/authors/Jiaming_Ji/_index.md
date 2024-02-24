@@ -31,7 +31,7 @@ social:
     link: https://jijiaming.com/
   - icon: envelope
     icon_pack: fas
-    link: 'jiamg.ji@gmail.com'
+    link: 'mailto:jiamg.ji@gmail.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

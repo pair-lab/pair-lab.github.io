@@ -32,7 +32,7 @@ social:
     link: https://github.com/thuzfz1
   - icon: envelope
     icon_pack: fas
-    link: 'zengfz21@mails.tsinghua.edu.cn'
+    link: 'mailto:zengfz21@mails.tsinghua.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

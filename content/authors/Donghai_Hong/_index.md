@@ -32,7 +32,7 @@ social:
     link: https://github.com/Kass123777
   - icon: envelope
     icon_pack: fas
-    link: '201870288@nju.edu.cn'
+    link: 'mailto:201870288@nju.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

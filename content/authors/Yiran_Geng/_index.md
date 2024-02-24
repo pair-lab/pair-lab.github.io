@@ -31,7 +31,7 @@ social:
     link: https://gengyiran.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'gyr@stu.pku.edu.cn'
+    link: 'mailto:gyr@stu.pku.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

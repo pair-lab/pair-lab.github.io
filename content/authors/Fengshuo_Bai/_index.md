@@ -29,7 +29,7 @@ social:
     link: https://changwinde.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'ChangWindeG@gmail.com'
+    link: 'mailto:ChangWindeG@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

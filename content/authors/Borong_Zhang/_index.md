@@ -31,7 +31,7 @@ social:
     link: https://github.com/muchvo
   - icon: envelope
     icon_pack: fas
-    link: 'borongzh@gmail.com'
+    link: 'mailto:borongzh@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

@@ -31,7 +31,7 @@ social:
     link: https://github.com/XuehaiPan
   - icon: envelope
     icon_pack: fas
-    link: 'xuehaipan@pku.edu.cn'
+    link: 'mailto:xuehaipan@pku.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

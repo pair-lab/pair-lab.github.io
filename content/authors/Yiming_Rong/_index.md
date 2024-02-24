@@ -32,7 +32,7 @@ social:
     link: https://github.com/jymh
   - icon: envelope
     icon_pack: fas
-    link: 'rongyiming2022@ia.ac.cn'
+    link: 'mailto:rongyiming2022@ia.ac.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

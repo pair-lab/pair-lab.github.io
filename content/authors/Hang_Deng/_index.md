@@ -32,7 +32,7 @@ social:
     link: https://github.com/dhcode-cpp
   - icon: envelope
     icon_pack: fas
-    link: 'dhcode95@gmail.com'
+    link: 'mailto:dhcode95@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

@@ -32,7 +32,7 @@ social:
     link: https://htlou.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'hantaolou.htlou@gmail.com'
+    link: 'mailto:hantaolou.htlou@gmail.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

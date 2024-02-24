@@ -32,7 +32,7 @@ social:
     link: https://github.com/glue25
   - icon: envelope
     icon_pack: fas
-    link: 'xiaoyuan2023112@gmail.com'
+    link: 'mailto:xiaoyuan2023112@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

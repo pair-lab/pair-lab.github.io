@@ -32,7 +32,7 @@ social:
     link: https://cypypccpy.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'yuanpei.chen312@gmail.com'
+    link: 'mailto:yuanpei.chen312@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

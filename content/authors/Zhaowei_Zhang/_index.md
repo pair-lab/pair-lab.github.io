@@ -31,7 +31,7 @@ social:
     link: https://zowiezhang.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'zhang_zhaowei@whu.edu.cn'
+    link: 'mailto:zhang_zhaowei@whu.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

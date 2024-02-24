@@ -31,7 +31,7 @@ social:
     link: https://benjamin-eecs.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'benjaminliu.eecs@gmail.com'
+    link: 'mailto:benjaminliu.eecs@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

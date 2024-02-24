@@ -32,7 +32,7 @@ social:
     link: siminli.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'lisiminsimon@buaa.edu.cn'
+    link: 'mailto:lisiminsimon@buaa.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -31,7 +31,7 @@ social:
     link: https://github.com/CDM1619
   - icon: envelope
     icon_pack: fas
-    link: 'machengdong@stu.xmu.edu.cn'
+    link: 'mailto:machengdong@stu.xmu.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

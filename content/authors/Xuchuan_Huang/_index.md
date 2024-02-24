@@ -32,7 +32,7 @@ social:
     link: https://github.com/HappyFern666
   - icon: envelope
     icon_pack: fas
-    link: 'hxc17866878887[at]stu(dot)pku(dot)edu(dot)cn'
+    link: 'mailto:hxc17866878887[at]stu(dot)pku(dot)edu(dot)cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
