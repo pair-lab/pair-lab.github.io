@@ -14,7 +14,7 @@ last_name: Zhao
 superuser: false
 
 # Role/position
-role: Visiting Scholar (or Research Assistant)
+role: Visiting Scholar
 
 # Organizations/Affiliations
 organizations:
