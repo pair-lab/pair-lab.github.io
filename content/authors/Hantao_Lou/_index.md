@@ -29,7 +29,7 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: htlou.github.io
+    link: https://htlou.github.io/
   - icon: envelope
     icon_pack: fas
     link: 'hantaolou.htlou@gmail.com'
