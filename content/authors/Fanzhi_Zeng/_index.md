@@ -18,7 +18,7 @@ role: Undergrad'21
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: Tsinghua University
     url: 'https://www.pku.edu.cn/'
 
 
