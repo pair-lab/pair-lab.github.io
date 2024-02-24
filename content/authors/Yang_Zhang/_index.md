@@ -14,7 +14,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Undergrad'19
+role: Undergrad'22
 
 # Organizations/Affiliations
 organizations:
