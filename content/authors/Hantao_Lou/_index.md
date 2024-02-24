@@ -47,7 +47,7 @@ email: ''
 user_groups:
   - Visiting Students
 
-external_link: htlou.github.io
+external_link: https://htlou.github.io/
 
 
 ---
