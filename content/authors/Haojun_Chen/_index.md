@@ -1,14 +1,10 @@
 ---
 # Display name
-title: Jiayi Zhou
+title: Haojun Chen
 
 # Full name (for SEO)
-first_name: Jiayi
-last_name: Zhou
-
-# Username (this should match the folder name)
-# authors:
-#   - Jiayi_Zhou
+first_name: Haojun
+last_name: Chen
 
 # Is this the primary user of the site?
 superuser: false
@@ -29,10 +25,10 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://github.com/Gaiejj
+    link: https://github.com/chjchjchjchjchj
   - icon: envelope
     icon_pack: fas
-    link: 'gaiejj@outlook.com'
+    link: 'chenhaojun001@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -50,5 +46,5 @@ email: ''
 user_groups:
   - Phd Students
 
-external_link: https://github.com/Gaiejj
+external_link: https://github.com/chjchjchjchjchj
 ---

@@ -1,25 +1,22 @@
 ---
 # Display name
-title: Jiayi Zhou
+
+title: Fengshuo Bai
 
 # Full name (for SEO)
-first_name: Jiayi
-last_name: Zhou
-
-# Username (this should match the folder name)
-# authors:
-#   - Jiayi_Zhou
+first_name: Fengshuo
+last_name: Bai
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Phd'24
+role: Phd'23, co-advised with Dr. Ying Wen
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
-    url: 'https://www.pku.edu.cn/'
+  - name: Shanghai Jiao Tong University
+    url: 'https://www.sjtu.edu.cn/'
 
 
 # Social/Academic Networking
@@ -29,10 +26,10 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://github.com/Gaiejj
+    link: https://changwinde.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'gaiejj@outlook.com'
+    link: 'ChangWindeG@gmail.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -50,5 +47,5 @@ email: ''
 user_groups:
   - Phd Students
 
-external_link: https://github.com/Gaiejj
+external_link: https://changwinde.github.io/
 ---
