@@ -14,11 +14,11 @@ last_name: Ma
 superuser: false
 
 # Role/position
-role: PhD'22, co-advised with Prof. Jiansheng Yang
+role: PhD'22
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Automation, Chinese Academy of Sciences
+  - name: Peking University
     url: 'https://www.pku.edu.cn/'
 
 
