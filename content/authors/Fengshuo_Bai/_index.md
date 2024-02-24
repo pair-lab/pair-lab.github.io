@@ -11,7 +11,7 @@ last_name: Bai
 superuser: false
 
 # Role/position
-role: Phd'23, co-advised with Dr. Ying Wen
+role: PhD'23, co-advised with Dr. Ying Wen
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd Students
+  - PhD Students
 
 external_link: https://changwinde.github.io/
 ---

@@ -14,7 +14,7 @@ last_name: Zhong
 superuser: false
 
 # Role/position
-role: Phd'23
+role: PhD'23
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd Students
+  - PhD Students
 
 external_link: https://github.com/Ivan-Zhong
 ---

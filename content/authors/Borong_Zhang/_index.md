@@ -14,7 +14,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Undergrad'20
+role: Undergrad'21
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Visiting Students
 
 external_link: https://github.com/muchvo
 ---

@@ -14,7 +14,7 @@ last_name: Geng
 superuser: false
 
 # Role/position
-role: Undergrad'19
+role: Undergrad'20
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Alumni
 
 external_link: https://gengyiran.github.io
 ---

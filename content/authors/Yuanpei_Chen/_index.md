@@ -18,7 +18,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Peking University
     url: 'https://www.pku.edu.cn/'
 
 
@@ -48,7 +48,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Research Assistants
 
 external_link: https://cypypccpy.github.io
 ---

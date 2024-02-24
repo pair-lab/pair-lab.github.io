@@ -12,9 +12,9 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Faculty
-          - Phd Students
+          - PhD Students
           - Research Assistants
-          - Undergrad Students
+          - Visiting Students
           - Alumni
       sort_by: Params.role
       sort_ascending: true
