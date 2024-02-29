@@ -29,7 +29,7 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=teiNc0sAAAAJ&hl=en
+    link: https://tianyiqiu.net/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:qiutianyi.qty@gmail.com'
@@ -47,7 +47,7 @@ email: ''
 user_groups:
   - Visiting Students
 
-external_link: https://scholar.google.com/citations?user=teiNc0sAAAAJ&hl=en
+external_link: https://tianyiqiu.net/
 
 
 ---
