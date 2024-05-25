@@ -28,7 +28,7 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://github.com/Ivan-Zhong
+    link: https://ivan-zhong.github.io/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zhongyifan001@gmail.com'
@@ -49,5 +49,5 @@ email: ''
 user_groups:
   - PhD Students
 
-external_link: https://github.com/Ivan-Zhong
+external_link: https://ivan-zhong.github.io/
 ---
