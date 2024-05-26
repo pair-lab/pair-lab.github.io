@@ -18,7 +18,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hongkong, Shenzhen
+  - name: The Chinese University of Hong Kong, Shenzhen
     url: 'https://www.pku.edu.cn/'
 
 
