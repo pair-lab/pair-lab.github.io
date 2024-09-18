@@ -7,18 +7,20 @@ first_name: Borong
 last_name: Zhang
 
 # Username (this should match the folder name)
-# authors:
-#   - Borong_Zhang
+authors:
+  - Borong_Zhang
+
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad'21
+role: 2025, PhD
 
 # Organizations/Affiliations
 organizations:
-  - name: Jilin University
+  - name: Peking University
     url: 
 
 # Social/Academic Networking
@@ -47,7 +49,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - PhD and Master Students
 
 external_link: https://github.com/muchvo
 ---

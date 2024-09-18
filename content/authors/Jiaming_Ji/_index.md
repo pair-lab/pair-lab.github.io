@@ -8,13 +8,15 @@ last_name: Ji
 
 # Username (this should match the folder name)
 authors:
-  # - Jiaming_Ji
+  - Jiaming_Ji
+
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD'23
+role: 2023, PhD
 
 # Organizations/Affiliations
 organizations:
@@ -32,6 +34,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jiamg.ji@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=aW8WbYYAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -39,7 +44,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - PhD and Master Students
 
-external_link: https://jijiaming.com/
+# external_link: https://jijiaming.com/
 ---

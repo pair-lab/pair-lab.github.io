@@ -14,7 +14,7 @@ last_name: Rong
 superuser: false
 
 # Role/position
-role: Master'22
+role: 2022, MSc
 
 # Organizations/Affiliations
 organizations:

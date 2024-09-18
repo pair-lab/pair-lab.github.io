@@ -14,11 +14,11 @@ last_name: Qiu
 superuser: false
 
 # Role/position
-role: Undergrad'22
+role: 2022, Undergrad
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: "Turning Class, Peking University"
     url: 'https://www.pku.edu.cn/'
 
 

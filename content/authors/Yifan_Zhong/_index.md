@@ -7,14 +7,15 @@ first_name: Yifan
 last_name: Zhong
 
 # Username (this should match the folder name)
-# authors:
-#   - Yifan_Zhong
+authors:
+  - Yifan_Zhong
 
+weight: 30
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD'23
+role: 2023, PhD
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +48,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - PhD and Master Students
 
 external_link: https://ivan-zhong.github.io/
 ---

@@ -18,8 +18,8 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Foshan University
-    url: 'https://www.pku.edu.cn/'
+  - name: 
+    url: 
 
 
 # Social/Academic Networking

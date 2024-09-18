@@ -14,7 +14,7 @@ last_name: Ma
 superuser: false
 
 # Role/position
-role: PhD'22
+role: 2022, PhD
 
 # Organizations/Affiliations
 organizations:

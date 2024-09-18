@@ -14,7 +14,7 @@ last_name: Yang
 superuser: false
 
 # Role/position
-role: Undergrad'21
+role: 2021, Undergrad
 
 # Organizations/Affiliations
 organizations:

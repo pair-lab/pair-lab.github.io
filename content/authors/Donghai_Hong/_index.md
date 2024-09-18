@@ -7,18 +7,22 @@ first_name: Donghai
 last_name: Hong
 
 # Username (this should match the folder name)
-# authors:
-#   - Donghai_Hong
+authors:
+  - Donghai_Hong
 
+
+weight: 50
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad'20
+role: 2024, MSc
+
+
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanjing University
+  - name: Peking University
     url: 'https://www.pku.edu.cn/'
 
 
@@ -32,7 +36,10 @@ social:
     link: https://github.com/Kass123777
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:201870288@nju.edu.cn'
+    link: 'mailto:donghai.hong@stu.pku.edu.cn'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=JQx-_5gAAAAJ&hl=zh-CN&oi=sra
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -45,7 +52,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - PhD and Master Students
 
 external_link: https://github.com/Kass123777
 

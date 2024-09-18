@@ -7,11 +7,16 @@ title: Fengshuo Bai
 first_name: Fengshuo
 last_name: Bai
 
+authors:
+  - Fengshuo_Bai
+
+weight: 50
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD'23, co-advised with Dr. Ying Wen
+role: 2023, PhD, co-advised with Dr. Ying Wen
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +50,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - PhD and Master Students
 
 external_link: https://changwinde.github.io/
 ---

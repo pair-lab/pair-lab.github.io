@@ -8,13 +8,15 @@ last_name: Ma
 
 # Username (this should match the folder name)
 authors:
-#   - Chengdong_Ma
+  - Chengdong_Ma
+
+weight: 90
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD'24
+role: 2024, PhD
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +49,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - PhD and Master Students
 
 external_link: https://github.com/CDM1619
 ---

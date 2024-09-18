@@ -47,7 +47,4 @@ email: ''
 user_groups:
   - Visiting Students
 
-external_link: https://github.com/HappyFern666
-
-
 ---
