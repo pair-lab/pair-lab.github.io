@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2023} Copyright by the PAIR Lab'
+    notice: '© 2023-2024 Copyright by the PAIR Lab'
     license:
       enable: false
       allow_derivatives: false

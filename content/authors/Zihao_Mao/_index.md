@@ -16,7 +16,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: 2022, MSc
+role: 2025, MSc, Co-advsied by Prof. Huijie Zhao
 
 # Organizations/Affiliations
 organizations:
