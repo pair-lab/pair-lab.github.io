@@ -1,27 +1,26 @@
 ---
 # Display name
-title: Zihao Mao
+title: Qizhi Chen
 
 # Full name (for SEO)
-first_name: Zihao
-last_name: Mao
+first_name: Qizhi
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - Zihao_Mao
-
-weight: 10
+  - Qizhi_Chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025, PhD, Co-advsied by Prof. Huijie Zhao
+role: 2021, Undergrad
 
 # Organizations/Affiliations
 organizations:
-  - name: Beihang University
-    url: 
+  - name: Peking University
+    url: 'https://www.pku.edu.cn/'
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -30,10 +29,15 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://github.com/Waken-dream
+    link: github.com/emoairx
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mzh473243613@qq.com'
+    link: 'mailto:chenqizhi@stu.pku.edu.cn'
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -41,7 +45,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD and Master Students
+  - Visiting Students
 
-# external_link: https://jijiaming.com/
 ---

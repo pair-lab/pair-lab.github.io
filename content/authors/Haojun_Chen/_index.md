@@ -15,7 +15,7 @@ weight: 80
 superuser: false
 
 # Role/position
-role: 2024, PhD
+role: 2024, PhD, co-advised with Prof. Xiaojian Ma
 
 # Organizations/Affiliations
 organizations:

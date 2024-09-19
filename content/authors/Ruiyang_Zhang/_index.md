@@ -1,27 +1,26 @@
 ---
 # Display name
-title: Zihao Mao
+title: Ruiyang Zhang
 
 # Full name (for SEO)
-first_name: Zihao
-last_name: Mao
+first_name: Ruiyang
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Zihao_Mao
-
-weight: 10
+  - Ruiyang_Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025, PhD, Co-advsied by Prof. Huijie Zhao
+role: 2022, Undergrad
 
 # Organizations/Affiliations
 organizations:
   - name: Beihang University
     url: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -30,10 +29,15 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: https://github.com/Waken-dream
+    link: https://github.com/ZRY000
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mzh473243613@qq.com'
+    link: 'mailto:ruiyangzhang000@gmail.com'
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -41,7 +45,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD and Master Students
+  - Visiting Students
 
-# external_link: https://jijiaming.com/
 ---
