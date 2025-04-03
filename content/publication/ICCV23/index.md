@@ -1,13 +1,13 @@
 ---
 title: 'Unidexgrasp++: Improving dexterous grasping policy learning via geometry-aware curriculum and iterative generalist-specialist learning'
 authors:
- - Wan, Weikang
- - Geng, Haoran 
- - Liu, Yun 
- - Shan, Zikang 
- - Yang, Yaodong 
- - Yi, Li 
- - Wang, He
+ - Weikang Wan
+ - Haoran Geng 
+ - Yun Liu 
+ - Zikang Shan 
+ - Yaodong Yang 
+ - Li Yi 
+ - He Wang
 date: '2023-05-04T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
