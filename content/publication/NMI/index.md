@@ -1,22 +1,16 @@
 ---
-title: 'Offline Pre-trained Multi-agent Decision Transformer'
+title: 'Efficient and scalable reinforcement learning for large-scale network control'
 authors:
- - Linghui Meng
- - Muning Wen
- - Chenyang Le
- - Xiyun Li
- - Dengpeng Xing
- - Weinan Zhang
- - Ying Wen
- - Haifeng Zhang
- - Jun Wang
+ - Chengdong Ma
+ - Aming Li 
+ - Yali Du 
+ - Hao Dong
  - Yaodong Yang
- - Bo Xu
-date: '2022-06-10T00:00:00Z'
+date: '2024-09-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-10T00:00:00Z'
+publishDate: '2024-09-03T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,24 +19,24 @@ publishDate: '2022-06-10T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Machine Intelligence Research
+publication: Nature Machine Intelligence
 # publication_short: Neurips 2022
 
-abstract: 'Offline reinforcement learning leverages previously collected offline datasets to learn optimal policies with no necessity to access the real environment. Such a paradigm is also desirable for multi-agent reinforcement learning (MARL) tasks, given the combinatorially increased interactions among agents and with the environment. However, in MARL, the paradigm of offline pre-training with online fine-tuning has not been studied, nor even datasets or benchmarks for offline MARL research are available. In this paper, we facilitate the research by providing large-scale datasets and using them to examine the usage of the decision transformer in the context of MARL. We investigate the generalization of MARL offline pre-training in the following three aspects: 1) between single agents and multiple agents, 2) from offline pretraining to online fine tuning, and 3) to that of multiple downstream tasks with few-shot and zero-shot capabilities. We start by introducing the first offline MARL dataset with diverse quality levels based on the StarCraftII environment, and then propose the novel architecture of multi-agent decision transformer (MADT) for effective offline learning. MADT leverages the transformer′s modelling ability for sequence modelling and integrates it seamlessly with both offline and online MARL tasks. A significant benefit of MADT is that it learns generalizable policies that can transfer between different types of agents under different task scenarios. On the StarCraft II offline dataset, MADT outperforms the state-of-the-art offline reinforcement learning (RL) baselines, including BCQ and CQL. When applied to online tasks, the pre-trained MADT significantly improves sample efficiency and enjoys strong performance in both few-short and zero-shot cases. To the best of our knowledge, this is the first work that studies and demonstrates the effectiveness of offline pre-trained models in terms of sample efficiency and generalizability enhancements for MARL.'
+abstract: 'The primary challenge in the development of large-scale artificial intelligence (AI) systems lies in achieving scalable decision-making—extending the AI models while maintaining sufficient performance. Existing research indicates that distributed AI can improve scalability by decomposing complex tasks and distributing them across collaborative nodes. However, previous technologies suffered from compromised real-world applicability and scalability due to the massive requirement of communication and sampled data. Here we develop a model-based decentralized policy optimization framework, which can be efficiently deployed in multi-agent systems. By leveraging local observation through the agent-level topological decoupling of global dynamics, we prove that this decentralized mechanism achieves accurate estimations of global information. Importantly, we further introduce model learning to reinforce the optimal policy for monotonic improvement with a limited amount of sampled data. Empirical results on diverse scenarios show the superior scalability of our approach, particularly in real-world systems with hundreds of agents, thereby paving the way for scaling up AI systems.'
 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
 tags:
- - Offline Reinforcement Learning
- - Multi-Agent Reinforcement Learning
- - Offline Multi-Agent Reinforcement Learning
+ - Decentralized AI
+ - Multi-Agent Systems
+ - Model-Based AI
 featured: true
 
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://www.mi-research.net/en/article/doi/10.1007/s11633-022-1383-7
+url_pdf: https://www.nature.com/articles/s42256-024-00879-7.pdf 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
