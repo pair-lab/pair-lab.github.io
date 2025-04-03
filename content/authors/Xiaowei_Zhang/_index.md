@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Qizhi Chen
+title: Xiaowei Zhang
 
 # Full name (for SEO)
-first_name: Qizhi
-last_name: Chen
+first_name: Xiaowei
+last_name: Zhang
 
 # Username (this should match the folder name)
-authors:
-  - Qizhi_Chen
+# authors:
+#   - Xiaowei_Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2021, Undergrad
+role: 2023, Undergrad
 
 # Organizations/Affiliations
 organizations:
@@ -29,10 +29,10 @@ organizations:
 social:
   - icon: house
     icon_pack: fas
-    link: github.com/emoairx
+    link: https://github.com/Gracezxw
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:chenqizhi@stu.pku.edu.cn'
+    link: 'mailto:2300017737@stu.pku.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -46,5 +46,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Visiting Students
+
+external_link: https://github.com/Gracezxw
+
 
 ---
