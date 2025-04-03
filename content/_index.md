@@ -27,6 +27,36 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+      - title: "华人首篇多体强化学习子刊"
+        content: '分布式多智能体强化学习赋能电网与交通控制'
+        align: center
+        background:
+          image:
+            filename: nature.png
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Publications
+          url: https://www.nature.com/articles/s42256-024-00879-7
+      - title: "AI4S成果发表于Cell旗舰子刊Matter"
+        content: '科学研究亮点：多智能体交互与对齐'
+        align: center
+        background:
+          image:
+            filename: matter.png
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Publications
+          url: https://www.sciencedirect.com/science/article/abs/pii/S2590238524005824
       - title: "Safe Value Alignment for LLMs"
         content: '智源大会：AI安全与对齐论坛'
         align: center
