@@ -13,7 +13,7 @@ sections:
     content:
       slides:
       - title: The PAIR Lab 
-        content: decision making, strategic interaction, and human-AI alignment
+        content: Decision making, strategic interaction, and human-AI alignment
         align: center
         background:
           image:
@@ -27,6 +27,23 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+
+      - title: "ACL 2025 年度最佳论文奖"
+        content: 'Language Models Resist Alignment: Evidence From Data Compression'
+        align: center
+        background:
+          image:
+            filename: 2025acl.jpg
+            filters:
+              brightness: 0.6
+          position: center 
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Conference
+          url: https://2025.aclweb.org/program/awards/  
+
       - title: "华人首篇多体强化学习子刊"
         content: '分布式多智能体强化学习赋能电网与交通控制'
         align: center
@@ -42,6 +59,7 @@ sections:
           icon_pack: fas
           text: Publications
           url: https://www.nature.com/articles/s42256-024-00879-7
+
       - title: "AI4S成果发表于Cell旗舰子刊Matter"
         content: '科学研究亮点：多智能体交互与对齐'
         align: center
