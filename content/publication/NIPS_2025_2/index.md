@@ -1,5 +1,5 @@
 ---
-title: 'Safesora: Towards safety alignment of text2video generation via a human preference dataset'
+title: 'Safesora: Towards Safety Alignment of Text2video Generation via a Human Preference Dataset'
 authors:
   - Juntao Dai
   - Tianle Chen

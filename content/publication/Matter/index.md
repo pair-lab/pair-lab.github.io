@@ -1,5 +1,5 @@
 ---
-title: 'Transforming the synthesis of carbon nanotubes with machine learning models and automation'
+title: 'Transforming the Synthesis of Carbon Nanotubes with Machine Learning Models and Automation'
 authors:
   - Yue Li
   - Shurui Wang

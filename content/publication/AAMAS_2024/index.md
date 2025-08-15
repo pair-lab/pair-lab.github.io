@@ -1,5 +1,5 @@
 ---
-title: 'Carbon trading supply chain management based on constrained deep reinforcement learning'
+title: 'Carbon Trading Supply Chain Management Based On Constrained Deep Reinforcement Learning'
 authors:
   - Qinghao Wang
   - Yaodong Yang

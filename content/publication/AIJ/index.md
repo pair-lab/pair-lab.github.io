@@ -1,5 +1,5 @@
 ---
-title: 'Safe multi-agent reinforcement learning for multi-robot control'
+title: 'Safe Multi-agent Reinforcement Learning for Multi-robot Control'
 authors:
   - Shangding Gu
   - Jakub Grudzien Kuba

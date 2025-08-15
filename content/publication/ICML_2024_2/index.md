@@ -1,5 +1,5 @@
 ---
-title: 'Efficient adaptation in mixed-motive environments via hierarchical opponent modeling and planning'
+title: 'Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning'
 authors:
   - Yizhe Huang
   - Anji Liu

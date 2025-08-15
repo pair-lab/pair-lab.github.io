@@ -1,5 +1,5 @@
 ---
-title: 'Grasp multiple objects with one hand'
+title: 'Grasp Multiple Objects with One Hand'
 authors:
   - Yuyang Li
   - Bo Liu

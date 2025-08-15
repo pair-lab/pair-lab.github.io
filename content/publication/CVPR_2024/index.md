@@ -1,5 +1,5 @@
 ---
-title: 'Anyskill: Learning open-vocabulary physical skill for interactive agents'
+title: 'Anyskill: Learning Open-Vocabulary Physical Skill for Interactive Agents'
 authors:
   - Jieming Cui
   - Tengyu Liu

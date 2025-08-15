@@ -1,5 +1,5 @@
 ---
-title: 'Unidexgrasp++: Improving dexterous grasping policy learning via geometry-aware curriculum and iterative generalist-specialist learning'
+title: 'Unidexgrasp++: Improving Dexterous Grasping Policy Learning via Geometry-Aware Curriculum and Iterative Generalist-Specialist Learning'
 authors:
  - Weikang Wan
  - Haoran Geng 

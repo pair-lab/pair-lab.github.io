@@ -1,20 +1,17 @@
 ---
-title: 'Can Large Language Models Independently Complete Tasks? A Dynamic Evaluation Framework for Multi-turn Task Planning and Completion'
+title: 'Adaptive Pessimism via Target Q-Value for Offline Reinforcement Learning'
 authors:
-  - Jun Gao
-  - Junlin Cui
-  - Huijia Wu
-  - Liuyu Xian 
-  - Han Zhao
-  - Xiangang Li
-  - Meng Fang
+  - Jie Liu
+  - Yinmin Zhang
+  - Chuming Li
   - Yaodong Yang
-  - Zhaofeng He
-date: '2025-07-03T00:00:00Z'
+  - Yu Liu
+  - Wanli Ouyang
+date: '2024-12-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-03T00:00:00Z'
+publishDate: '2024-12-03T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,20 +20,18 @@ publishDate: '2025-07-03T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication:  Neurocomputing
+publication:  Neural Networks
 # publication_short: IROS 2022
 
-abstract: "Large language models (LLMs) are increasingly relied upon for multi-turn dialogue to conduct complex tasks. However, existing benchmarks mainly evaluate LLMs as agents, overlooking their potential as independent systems to accomplish complex tasks. In addition, these benchmarks typically evaluate the planning and completion capabilities of the models individually, rather than simultaneously. To address these issues, we propose a new Dynamic Evaluation Framework for Multi-Turn task planning and completion (DEF-MT) to assess the ability of LLM to independently complete complex tasks in multi-turn scenarios. Our approach quantifies the model’s planning capability by guiding it to generate planning and responses sequentially. Simultaneously, we use a dynamic approach to generate data that simulates the complex intents of real users. Finally, experiments conducted on 9 mainstream models using the Multiwoz 2.2 dataset, indicate that the existing models’ sub-task planning capabilities hinder their ability to complete complex tasks, providing a meaningful reference for the future optimization direction of LLM."
+abstract: "Offline reinforcement learning (RL) methods learn from datasets without further environment interaction, facing errors due to out-of-distribution (OOD) actions. Although effective methods have been proposed to conservatively estimate the Q-values of those OOD actions to mitigate this problem, insufficient or excessive pessimism under constant constraints often harms the policy learning process. Moreover, since the distribution of each task on the dataset varies among different environments and behavior policies, it is desirable to learn an adaptive weight for balancing constraints on the conservative estimation of Q-value and the standard RL objectives depending on each task. To achieve this, in this paper, we point out that the quantile of the Q-value is an effective metric to refer to the Q-value distribution of the fixed data set. Based on this observation, we design Adaptive Pessimism via a Target Q-value (APTQ) algorithm that balances between the pessimism constraint and the RL objective; this leads the expectation of Q-value to stably converge to a given target Q-value from a reasonable quantile of the Q-value distribution of the dataset. Experiments show that our method remarkably improves the performance of the state-of-the-art method CQL by 6.20% on the D4RL-v0 and 1.89% on the D4RL-v2."
 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
 tags:
- - LLM
- - Dialogue
- - Multi-turn
- - Evaluation
- - Task planning
+ - Offline reinforcement learning
+ - Representation learning
+ - Machine learning
 featured: true
 
 # links:

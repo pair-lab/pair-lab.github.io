@@ -1,5 +1,5 @@
 ---
-title: 'Benchmarking multi-national value alignment for large language models'
+title: 'Benchmarking Multi-national Value Alignment for Large Language Models'
 authors:
   - Chengyi Ju
   - Weijie Shi
@@ -24,8 +24,8 @@ publishDate: '2025-07-03T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  Findings of the Association for Computational Linguistics (ACL 2025)
-# publication_short: IROS 2022
+publication:  Findings of the Association for Computational Linguistics
+publication_short: ACL 2025
 
 abstract: "Do Large Language Models (LLMs) hold positions that conflict with your country’s values? Occasionally they do! However, existing works primarily focus on ethical reviews, failing to capture the diversity of national values, which encompass broader policy, legal, and moral considerations. Furthermore, current benchmarks that rely on spectrum tests using manually designed questionnaires are not easily scalable. To address these limitations, we introduce NaVAB, a comprehensive benchmark to evaluate the alignment of LLMs with the values of five major nations: China, the United States, the United Kingdom, France, and Germany. NaVAB implements a national value extraction pipeline to efficiently construct value assessment datasets. Specifically, we propose a modeling procedure with instruction tagging to process raw data sources, a screening process to filter value-related topics and a generation process with a Conflict Reduction mechanism to filter non-conflicting values. We conduct extensive experiments on various LLMs across countries, and the results provide insights into assisting in the identification of misaligned scenarios. Moreover, we demonstrate that NaVAB can be combined with alignment techniques to effectively reduce value concerns by aligning LLMs’ values with the target country."
 

@@ -1,5 +1,5 @@
 ---
-title: On the complexity of computing Markov perfect equilibrium in general-sum stochastic games
+title: On the Complexity of Computing Markov Perfect Equilibrium in General-Sum Stochastic Games
 authors:
   - Xiaotie Deng
   - Ningyuan Li

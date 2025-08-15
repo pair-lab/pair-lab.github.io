@@ -1,5 +1,5 @@
 ---
-title: 'Scalable constrained policy optimization for safe multi-agent reinforcement learning'
+title: 'Scalable Constrained Policy Optimization for Safe Multi-agent Reinforcement Learning'
 authors:
   - Lijun Zhang
   - Lin Li

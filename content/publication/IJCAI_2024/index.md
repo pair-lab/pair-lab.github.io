@@ -1,5 +1,5 @@
 ---
-title: 'Off-agent trust region policy optimization'
+title: 'Off-Agent Trust Region Policy Optimization'
 authors:
   - Ruiqing Chen
   - Xiaoyuan Zhang

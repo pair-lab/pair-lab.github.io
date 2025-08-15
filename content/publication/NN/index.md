@@ -1,5 +1,5 @@
 ---
-title: 'TIMAR: Transition-informed representation for sample-efficient multi-agent reinforcement learning'
+title: 'TIMAR: Transition-Informed Representation for Sample-Efficient Multi-agent Reinforcement Learning'
 authors:
   - Mingxiao Feng
   - Yaodong Yang

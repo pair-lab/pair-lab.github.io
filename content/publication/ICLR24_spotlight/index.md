@@ -1,5 +1,5 @@
 ---
-title: Maximum entropy heterogeneous-agent reinforcement learning
+title: Maximum Entropy Heterogeneous-Agent Reinforcement Learning
 authors:
  - Jiarong Liu
  - Yifan Zhong

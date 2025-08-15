@@ -1,5 +1,5 @@
 ---
-title: A game-theoretic approach to multi-agent trust region optimization
+title: A Game-Theoretic Approach to Multi-agent Trust Region Optimization
 authors:
  - Ying Wen
  - Hui Chen

@@ -1,5 +1,5 @@
 ---
-title: 'Rat: Adversarial attacks on deep reinforcement agents for targeted behaviors'
+title: 'Rat: Adversarial Attacks on Deep Reinforcement Agents for Targeted Behaviors'
 authors:
   - Fengshuo Bai
   - Runze Liu

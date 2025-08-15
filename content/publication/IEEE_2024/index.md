@@ -1,42 +1,34 @@
 ---
-title: 'Can Large Language Models Independently Complete Tasks? A Dynamic Evaluation Framework for Multi-turn Task Planning and Completion'
+title: 'Remember the Past for Better Future: Memory-Augmented Offline RL'
 authors:
-  - Jun Gao
-  - Junlin Cui
-  - Huijia Wu
-  - Liuyu Xian 
-  - Han Zhao
-  - Xiangang Li
-  - Meng Fang
+  - Yue Zhang
   - Yaodong Yang
-  - Zhaofeng He
-date: '2025-07-03T00:00:00Z'
-doi: ''
+  - Zhenbo Lu
+  - Wengang Zhou
+  - Houqiang Li
+date: '2024-06-03T00:00:00Z'
+doi: '10.1109/IJCNN60899.2024.10651193'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-03T00:00:00Z'
+publishDate: '2024-06-03T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  Neurocomputing
-# publication_short: IROS 2022
+publication:  International Joint Conference on Neural Networks 
+publication_short: IJCNN 2024
 
-abstract: "Large language models (LLMs) are increasingly relied upon for multi-turn dialogue to conduct complex tasks. However, existing benchmarks mainly evaluate LLMs as agents, overlooking their potential as independent systems to accomplish complex tasks. In addition, these benchmarks typically evaluate the planning and completion capabilities of the models individually, rather than simultaneously. To address these issues, we propose a new Dynamic Evaluation Framework for Multi-Turn task planning and completion (DEF-MT) to assess the ability of LLM to independently complete complex tasks in multi-turn scenarios. Our approach quantifies the model’s planning capability by guiding it to generate planning and responses sequentially. Simultaneously, we use a dynamic approach to generate data that simulates the complex intents of real users. Finally, experiments conducted on 9 mainstream models using the Multiwoz 2.2 dataset, indicate that the existing models’ sub-task planning capabilities hinder their ability to complete complex tasks, providing a meaningful reference for the future optimization direction of LLM."
+abstract: "As a foundation of human intelligence, memory has been found to be critical for human attention and decision making. However, it is usually underutilized in current reinforcement learning literature, primarily serving as training data. Researchers have rarely noticed the use of memory in other perspectives. To explore the potential of memory architectures, we focus on the offline reinforcement learning setting, where a fixed memory buffer is provided, and propose a novel framework to exploit it. Specifically, an attention-based architecture is designed to adaptively utilize past memories in learned environment dynamic models, providing reliable references for the estimation of future states. Such memory-augmented environment dynamic models are then applied to boost the training of RL policies. While demonstrating superior empirical performance, our method is highly extendable to most of offline model-based RL algorithms without any change in the pipelines or theoretical conclusions."
 
 # Summary. An optional shortened abstract.
 # summary: In this study, we further examine the theoretical convergence rate and sample complexity of such regret minimization-based double oracle methods, utilizing a unified framework called RegretMinimizing Double Oracle.
 
 tags:
- - LLM
- - Dialogue
- - Multi-turn
- - Evaluation
- - Task planning
+ - Reinforcement learning
 featured: true
 
 # links:

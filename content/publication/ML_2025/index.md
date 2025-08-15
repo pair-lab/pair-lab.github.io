@@ -1,5 +1,5 @@
 ---
-title: 'ReDMan: reliable dexterous manipulation with safe reinforcement learning'
+title: 'ReDMan: Reliable Dexterous Manipulation with Safe Reinforcement Learning'
 authors:
   - Yiran Geng
   - Jiaming Ji

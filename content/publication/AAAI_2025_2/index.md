@@ -1,5 +1,5 @@
 ---
-title: 'Towards efficient collaboration via graph modeling in reinforcement learning'
+title: 'Towards Efficient Collaboration Via Graph Modeling In Reinforcement Learning'
 authors:
   - Wenzhe Fan
   - Zishun Yu
