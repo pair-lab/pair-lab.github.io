@@ -43,6 +43,22 @@ sections:
           icon_pack: fas
           text: Conference
           url: https://2025.aclweb.org/program/awards/  
+              
+      - title: "2025中国AI盛典：青年创想时刻"
+        content: '作为青年科学家代表受邀出席此次盛典，并在青年创想时刻发言'
+        align: center
+        background:
+          image:
+            filename: cmg.png
+            filters:
+              brightness: 0.5
+          position: center 
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Talks
+          url: https://www.cctv.com/2025/07/27/ARTItNl75GhUaA7HTa6SqqxU250727.shtml
 
       - title: "华人首篇多体强化学习子刊"
         content: '分布式多智能体强化学习赋能电网与交通控制'
