@@ -18,7 +18,7 @@ publishDate: '2021-09-23T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: Conference paper
+publication_types: ['1']
 # Publication name and optional abbreviated publication name.
 publication: Tenth International Conference on Learning Representations (ICLR 2022)
 # publication_short: ICLR 2022
