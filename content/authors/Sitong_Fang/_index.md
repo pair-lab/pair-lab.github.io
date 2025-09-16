@@ -1,37 +1,30 @@
 ---
 # Display name
-title: Ceyao Zhang
+title: Sitong Fang
 
 # Full name (for SEO)
-first_name: Ceyao
-last_name: Zhang
+first_name: Sitong
+last_name: Fang
 
-# Username (this should match the folder name)
-# authors:
-#   - Ceyao_Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025, Postdoctoral
+role: 2023, Undergrad
 
 # Organizations/Affiliations
 organizations:
   - name: "Peking University"
     url: 'https://www.pku.edu.cn/'
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: house
-    icon_pack: fas
-    link: https://github.com/CeyaoZhang
+  # - icon: house
+  #   icon_pack: fas
+  #   link: https://htlou.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ceyaozhang@gmail.com'
+    link: 'mailto:fangsitong@stu.pku.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,7 +37,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD and Master Students
+  - Visiting Students
 
-external_link: https://github.com/CeyaoZhang
+# external_link:
+
+
 ---
